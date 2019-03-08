@@ -1,0 +1,19 @@
+app-tree-view .treenodes {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+app-tree-view app-tree-view .treenodes {
+  list-style-type: none;
+  padding-left: 16px;
+}
+
+app-tree-view .nodebutton {
+  cursor: pointer;
+}
+
+app-tree-view .nodetext {
+  padding-left: 3px;
+  padding-right: 3px;
+  cursor: pointer;
+}
